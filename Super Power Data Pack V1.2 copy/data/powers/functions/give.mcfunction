@@ -1,0 +1,1 @@
+give @p cooked_beef 64 
